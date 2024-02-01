@@ -1,0 +1,17 @@
+{
+  "name": "api-rest-cities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EduBarrros/NODE-102.git",
+  "author": "EduBarrros <eduardodeoliveirabarros@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2",
+    "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "typescript": "^5.3.3"
+  }
+}
